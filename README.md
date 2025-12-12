@@ -25,6 +25,10 @@ To solve them correctly, you need a solid understanding of how networks work and
 ```sh
   python3 -m http.server 8000
 ```
+then
+```url
+  http://localhost:8000/
+```
 
 ##  Instructions
 
