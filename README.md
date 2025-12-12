@@ -41,10 +41,11 @@ for the basics of networking:
   
   - [network explain part1](https://www.youtube.com/watch?v=bj-Yfakjllc&t=351s)
   - [network explain par2](https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s)
-  - [link3](https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE)
+  - [another explain](https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE)
   
 for Subnetting and OSI Model:
 
-  - [link3](https://www.imperva.com/learn/application-security/osi-model/)
-  - [link3](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE&index=1)
+  - [osi model](https://www.imperva.com/learn/application-security/osi-model/)
+  - [subnetting](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE&index=1)
 
+A great appreciation for AI, it help a lot either to understand concepts and correcting any misinformation along the way.
