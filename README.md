@@ -39,18 +39,12 @@ then paste this in your browser
 
 for the basics of networking:
   
-  ```https://www.youtube.com/watch?v=bj-Yfakjllc&t=351s```
+  - [link1](https://www.youtube.com/watch?v=bj-Yfakjllc&t=351s)
+  - [link2](https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s)
+  - [link3](https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE)
   
-  ```https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s```
-  
-  ```https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE```
-
 for Subnetting and OSI Model:
 
-  ```url
-  https://www.imperva.com/learn/application-security/osi-model/
-  ```
+  - [link3](https://www.imperva.com/learn/application-security/osi-model/)
+  - [link3](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE&index=1)
 
-  ```url
-  https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE&index=1
-  ```
