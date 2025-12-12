@@ -39,8 +39,8 @@ then paste this in your browser
 
 for the basics of networking:
   
-  - [link1](https://www.youtube.com/watch?v=bj-Yfakjllc&t=351s)
-  - [link2](https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s)
+  - [network explain part1](https://www.youtube.com/watch?v=bj-Yfakjllc&t=351s)
+  - [network explain par2](https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s)
   - [link3](https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE)
   
 for Subnetting and OSI Model:
