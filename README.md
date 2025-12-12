@@ -25,12 +25,14 @@ To solve them correctly, you need a solid understanding of how networks work and
 ```sh
   python3 -m http.server 8000
 ```
-then
+
+then paste this in your browser
+
 ```url
   http://localhost:8000/
 ```
 
-##  Instructions
+##  Resources
 
 for the basics of networking:
   
@@ -39,3 +41,13 @@ for the basics of networking:
   ```https://www.youtube.com/watch?v=H7-NR3Q3BeI&t=8s```
   
   ```https://youtu.be/S7MNX_UD7vY?si=2ueTI3ueZFyCigoE```
+
+for Subnetting and OSI Model:
+
+  ```url
+  https://www.imperva.com/learn/application-security/osi-model/
+  ```
+
+  ```url
+  https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE&index=1
+  ```
