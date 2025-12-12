@@ -10,6 +10,10 @@ It focuses on concepts such as **IP addressing**, **subnetting**, and **routing*
 The goal is to fill in missing fields (IP addresses, subnet masks, routing details, etc.) in various exercises.  
 To solve them correctly, you need a solid understanding of how networks work and how devices communicate.
 
+The netpractice project has 10 levels, each level gives you a different nework situation to solve.
+To finish them, we need to understand how network work, how to subnet and how routing work.
+The asnwers for each level are saved as `.json` files.
+
 ##  Instructions
 
   To use the solutions provided in this repository, you will need the official file:
